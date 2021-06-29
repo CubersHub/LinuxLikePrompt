@@ -1,4 +1,4 @@
-# LinuxLikePrompt
+# Linux Like Prompt
 Make Windows Beautiful
 
 This one-liner will make your windows command prompt beaautiful. In combination with what I like to call "cmdrc" (like bashrc), this makes a perfect command prompt experience.
