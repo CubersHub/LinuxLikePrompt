@@ -12,7 +12,7 @@ This one-liner will make your windows command prompt beaautiful. In combination 
 - Press windows key + r
 - Type shell:startup
 - Go up on folder (press Alt+Up)
-- Move the cmd shortcut from the desktop to the folder you've just gone up (this is the start menu)
+- Move the cmd shortcut from the desktop to the folder you've just gone up (this is the user start menu)
 - Rename the shortcut to "cmd" or "CMD" if you like
 - Select the shortcut
 - Press Alt+Enter for changing its properties
