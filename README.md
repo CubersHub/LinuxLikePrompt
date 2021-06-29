@@ -19,7 +19,7 @@ This one-liner will make your windows command prompt beaautiful. In combination 
 - Change target to `%SystemRoot%\System32\cmd.exe /k ""%Userprofile%\cmdrc.cmd""` (notice the double double quotes)
 - Press Enter/Close the dialogue
 - Open explorer and go to `%Userprofile%`
-- Download cmdrc.cmd into that directory
+- Download cmdrc.cmd form this repo into that directory
 - Press the windows key and type "cmd"
 - If "cmd" is the first entry, but under the name "cmd" it says "App", then you've done everything right. If it doesn't say app, it's just the normal cmd.exe. If that happens, wait 1-2 minutes. If it still doesn't work, either you did something wrong or you windows does things mine doesn't.
 
