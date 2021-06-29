@@ -21,7 +21,7 @@ This one-liner will make your windows command prompt beaautiful. In combination 
 - Open explorer and go to `%Userprofile%`
 - Download cmdrc.cmd form this repo into that directory
 - Press the windows key and type "cmd"
-- If "cmd" is the first entry, but under the name "cmd" it says "App", then you've done everything right. If it doesn't say app, it's just the normal cmd.exe. If that happens, wait 1-2 minutes. If it still doesn't work, either you did something wrong or you windows does things mine doesn't.
+- If "cmd" is the first entry, but below the name "cmd" it says "App", then you've done everything right. If it doesn't say app, it's just the normal cmd.exe. If that happens, wait 1-2 minutes. If it still doesn't work, either you did something wrong or you windows does things mine doesn't.
 
 cmdrc.cmd is now you new custom cmd profile. You can type anything here, just don't do `SETLOCAL EnableDelayedExpansion`. This for some reason breaks variables completely and I don't know why.
 You can now define variables, CALL functions, batch macros, your prompt (of which there is a beautiful preset given in this repo's cmdrc.cmd), your default location, window size (`mode con cols=10 lines=10`) and much more!
