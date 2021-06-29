@@ -3,7 +3,7 @@ Make Windows Beautiful
 
 This one-liner will make your windows command prompt beaautiful. In combination with what I like to call "cmdrc" (like bashrc), this makes a perfect command prompt experience.
 
-# How to create a "cmdrc" profile
+# How to create a "cmdrc" profile -- Step by Step
 - Press the windows key and type "cmd"
 - If you find anything that is called "cmd" except cmd.exe (from System32) itself, go to there and delete or rename it (it's usually shortcuts you have to delete/rename)
 - Press the windows key and type "cmd"
@@ -14,7 +14,7 @@ This one-liner will make your windows command prompt beaautiful. In combination 
 - Go up on folder (press Alt+Up)
 - Move the cmd shortcut from the desktop to the folder you've just gone up (this is the user start menu)
 - Rename the shortcut to "cmd" or "CMD" if you like
-- Select the shortcut
+- Select the shortcut (should be already)
 - Press Alt+Enter for changing its properties
 - Change target to `%SystemRoot%\System32\cmd.exe /k ""%Userprofile%\cmdrc.cmd""` (notice the double double quotes)
 - Press Enter/Close the dialogue
