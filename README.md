@@ -1,7 +1,7 @@
 # Linux Like Prompt
 Make Windows Beautiful
 
-This one-liner will make your windows command prompt beaautiful. In combination with what I like to call "batchrc" (like bashrc), this makes a perfect command prompt experience.
+This one-liner will make your windows command prompt beautiful. In combination with what I like to call "batchrc" (like bashrc), this makes a perfect command prompt experience.
 
 # How to create a "batchrc" profile - Step by Step
 - Press the windows key and type "cmd"
